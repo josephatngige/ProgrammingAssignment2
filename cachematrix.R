@@ -5,6 +5,8 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
+  y <- matrix(rnorm(100), 10,10)
+  
 }
 
 
